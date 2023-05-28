@@ -31,8 +31,6 @@ For example:
 
 With the needed authentication provided, we will try running the `!kaggle datasets list` command again, and this time no error will be shown, but instead, a list containing 20 datasets will be printed, showing that the API is running properly. 
 
-And as we can see, no error message was shown, so the API was correctly installed and authenticated, and it's now ready to start using it as we need.
-
 ### Downloading a specific Dataset
 
 The `!kaggle datasets download -d some_dataset_on_kaggle_site` will provide us with the files of the chosen dataset.
