@@ -3,4 +3,4 @@
 *checkpoint*
 data/
 README.ipynb
-*checkpoints*/
+.ipynb_checkpoints/
