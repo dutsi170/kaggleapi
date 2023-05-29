@@ -1,6 +1,6 @@
 ### What is Kaggle?
 
-Kaggle is a worldwide 'data wherever' community, which means that you can use thousands of available datasets to get better and better in your data-skillset with wrangling some data, training Machine Learning models that will predict some target value given the features, create dashboard visualizations that will impress everyone, or just use them when creating some online tutorial.
+Kaggle is a worldwide 'data wharever' community, which means that you can use thousands of available datasets to get better and better in your data-skillset with wrangling some data, training Machine Learning models that will predict some target value given the features, create dashboard visualizations that will impress everyone, or just use them when creating some online tutorial.
 
 ### Trying to use kaggle API
 
